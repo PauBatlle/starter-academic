@@ -71,6 +71,6 @@ email: "pbatllef@caltech.edu"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a PhD student in Computing and Mathematical Sciences at at Caltech. I'm broadly interested in applications of mathematics in the physical sciences.
+I am a PhD student in [Computing and Mathematical Sciences at Caltech](https://www.cms.caltech.edu/), where I am fortunate to be advised by [Houman Owhadi](http://users.cms.caltech.edu/~owhadi/index.htm). My main research area is Game-theoretical Uncertainty Quantification (UQ) and Gaussian Process Regression (GPR), both from a theoretical point of view and with applications to the Physical Sciences. I collaborate with scientists from the Machine Learning and Uncertainty Quantification groups at [NASA Jet Propulsion Laboratory](https://jpl.nasa.gov/). Prior to joining Caltech, I graduated from Universitat Politècnica de Catalunya with a double degree in Mathematics and Engineering Physics as part of the [CFIS program](https://cfis.upc.edu/en) and I was a research intern at the [Center for Data Science at NYU](https://cds.nyu.edu/) for 9 months.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CVPau.pdf" "newtab" >}}CV{{< /staticref >}}
